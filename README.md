@@ -1,50 +1,62 @@
-# 🚀 Sistema Integrado - Knowledge Base, AI Prompts and Commands Manager
+# 🚀 Sistema Integrado: Knowledge Base, AI Prompts & Commands
 
-Uma **Single Page Application (SPA)** leve e autossuficiente para gerenciamento pessoal de conhecimento, prompts de IA e comandos de terminal. Desenvolvido para rodar inteiramente no navegador, sem necessidade de servidores, banco de dados externo ou instalação complexa.
+> Uma SPA "Corporate Zen" leve e autossuficiente para quem busca produtividade máxima com fricção zero.
 
-![Status do Projeto](https://img.shields.io/badge/Status-Funcional-success) ![Tecnologia](https://img.shields.io/badge/Tech-Vanilla_JS-yellow) ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-![Vanilla JS](https://img.shields.io/badge/Vanilla-JS-F7DF1E?logo=javascript&logoColor=black)
-![No-Build](https://img.shields.io/badge/Architecture-No--Build-orange)
+![Status](https://img.shields.io/badge/Status-Funcional-success) 
+![Tech](https://img.shields.io/badge/Tech-Vanilla_JS-yellow?logo=javascript&logoColor=black) 
+![Architecture](https://img.shields.io/badge/Architecture-No--Build-orange)
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-## ✨ Funcionalidades
+Esta **Single Page Application (SPA)** foi desenvolvida para rodar inteiramente no seu navegador, sem necessidade de servidores, bancos de dados externos ou instalações complexas. É a ferramenta ideal para centralizar o seu "segundo cérebro" técnico.
 
-* **📚 Gestão de Procedimentos (KBs):** Editor de texto rico com suporte a imagens (colar printscreen direto da área de transferência), tags coloridas e sistema de "Pin" (fixar).
-* **🤖 Gerenciador de Prompts:** Organize seus melhores prompts com formatação e botão de cópia rápida.
-* **💻 Biblioteca de Comandos:** Interface estilo "Terminal" para salvar snippets de código e comandos complexos.
-* **🎨 UI/UX Moderna:** Design "Corporate Zen" limpo, responsivo e com **Dark Mode** automático/manual.
-* **💾 Armazenamento Local Robusto:**
-    * Uso de **IndexedDB** para armazenar imagens e tutoriais pesados sem travar o navegador.
-    * Uso de **LocalStorage** para configurações rápidas e prompts leves.
-* **📂 Backup & Restore:** Exporte e importe seus dados em formato JSON para garantir a segurança das informações.
-* **🖼️ Customização:** Suporte para alteração de imagem de fundo personalizada.
+🌐 **[Acesse o Live Demo aqui](https://pedrogoessel.github.io/KnowledgeBase--Prompts--and--Commands-Manager/)**
+*(Dica: Lembre-se de ativar o GitHub Pages nas configurações do seu repositório para este link funcionar)*
 
-## 🛠️ Tecnologias Utilizadas
+---
 
-O projeto foi construído com a filosofia "No-Build", ou seja, não requer compiladores (Webpack, Vite, etc). É puro código nativo:
+## ✨ Funcionalidades em Destaque
 
-* **HTML5 Semantic**
-* **CSS3 Variables** (para temas e responsividade)
-* **Vanilla JavaScript (ES6+)**
-* **IndexedDB API** (Armazenamento de dados complexos)
+| Módulo | Descrição |
+| :--- | :--- |
+| **📚 Gestão de KBs** | Editor rico com suporte a `Ctrl+V` para imagens, tags coloridas e sistema de "Pin". |
+| **🤖 Prompt Manager** | Organize seus melhores prompts com formatação limpa e botão de cópia rápida. |
+| **💻 Command Library** | Interface estilo terminal para salvar snippets de código e comandos de CLI. |
+| **🎨 UI Moderno** | Design responsivo com **Dark Mode** automático e suporte a fundos personalizados. |
+
+### 🛠️ Diferenciais Técnicos
+* **Privacidade Total:** Seus dados nunca saem do seu computador. O processamento é 100% local.
+* **Arquitetura Híbrida de Storage:**
+    * **IndexedDB:** Utilizado para armazenar dados pesados (imagens e tutoriais longos) de forma performática.
+    * **LocalStorage:** Para configurações rápidas e prompts leves.
+* **Filosofia No-Build:** Desenvolvido puramente com tecnologias nativas (Vanilla JS, CSS Variables), garantindo que o projeto funcione daqui a 10 anos sem precisar atualizar dependências de pacotes.
+
+---
 
 ## 🚀 Como Usar
 
-1.  Faça o download do arquivo `index.html` (ou clone este repositório).
-2.  Abra o arquivo diretamente em qualquer navegador moderno (Chrome, Edge, Firefox, Brave).
-3.  Comece a cadastrar seus dados. Tudo fica salvo automaticamente no seu navegador.
+1.  **Clone o repositório:**
+    ```bash
+    git clone [https://github.com/PedroGoessel/KnowledgeBase--Prompts--and--Commands-Manager.git](https://github.com/PedroGoessel/KnowledgeBase--Prompts--and--Commands-Manager.git)
+    ```
+2.  **Abra o arquivo:** Basta abrir o `index.html` em qualquer navegador moderno (Chrome, Edge, Firefox, Brave).
+3.  **Backup:** Use a função de **Backup & Restore (JSON)** para garantir a segurança dos seus dados ao trocar de máquina.
 
-> **Nota:** Como os dados ficam no navegador, lembre-se de usar o botão **"Backup"** regularmente caso precise limpar o cache ou formatar o computador.
+> [!IMPORTANT]
+> **Nota sobre Armazenamento:** Como os dados ficam no cache do navegador, limpezas agressivas de histórico podem apagar os dados. Exporte seu Backup JSON regularmente!
 
-## 📸 Screenshots
+---
 
-<img width="1920" height="1234" alt="image" src="https://github.com/user-attachments/assets/5280670e-8ebd-47de-9c35-87bb28c67465" />
-<img width="1920" height="1411" alt="image" src="https://github.com/user-attachments/assets/f34e7e71-0d37-4af7-b297-4148ea6d3e40" />
-<img width="1920" height="1172" alt="image" src="https://github.com/user-attachments/assets/5d0a079a-8c3f-4a06-a491-3f1c34d4f589" />
+## 📸 Visual da Ferramenta
 
-## 🤝 Contribuição
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5280670e-8ebd-47de-9c35-87bb28c67465" width="45%" />
+  <img src="https://github.com/user-attachments/assets/f34e7e71-0d37-4af7-b297-4148ea6d3e40" width="45%" />
+</p>
 
-Sinta-se à vontade para fazer um fork e Pull Requests. Sugestões de melhorias no CSS ou otimizações no IndexedDB são bem-vindas.
+---
 
-## 📄 Licença
+## 🤝 Contribuição e Licença
 
-Este projeto está sob a licença MIT. Sinta-se livre para usar e modificar.
+Sugestões de melhorias no CSS ou otimizações no IndexedDB são muito bem-vindas. Sinta-se à vontade para abrir uma *Issue* ou enviar um *Pull Request*.
+
+Este projeto está sob a **Licença MIT**.
