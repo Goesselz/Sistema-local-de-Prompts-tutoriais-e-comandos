@@ -49,8 +49,9 @@ Esta **Single Page Application (SPA)** foi desenvolvida para rodar inteiramente 
 ## 📸 Visual da Ferramenta
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5280670e-8ebd-47de-9c35-87bb28c67465" width="45%" />
-  <img src="https://github.com/user-attachments/assets/f34e7e71-0d37-4af7-b297-4148ea6d3e40" width="45%" />
+<img width="1920" height="1234" alt="image" src="https://github.com/user-attachments/assets/5280670e-8ebd-47de-9c35-87bb28c67465" />
+<img width="1920" height="1411" alt="image" src="https://github.com/user-attachments/assets/f34e7e71-0d37-4af7-b297-4148ea6d3e40" />
+<img width="1920" height="1172" alt="image" src="https://github.com/user-attachments/assets/5d0a079a-8c3f-4a06-a491-3f1c34d4f589" />
 </p>
 
 ---
