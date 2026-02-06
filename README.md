@@ -1,6 +1,6 @@
 # 🚀 Sistema Integrado: Prompts, Procedimentos e Comandos.
 
-> Uma SPA "Corporate Zen" leve e autossuficiente para quem busca produtividade máxima com fricção zero.
+> Uma SPA leve e completa para quem busca produtividade máxima com praticidade e organização.
 
 ![Status](https://img.shields.io/badge/Status-Funcional-success) 
 ![Tech](https://img.shields.io/badge/Tech-Vanilla_JS-yellow?logo=javascript&logoColor=black) 
@@ -17,10 +17,10 @@ Esta **Single Page Application (SPA)** foi desenvolvida para rodar inteiramente 
 
 | Módulo | Descrição |
 | :--- | :--- |
-| **📚 Gestão de KBs** | Editor rico com suporte a `Ctrl+V` para imagens, tags coloridas e sistema de "Pin". |
+| **📚 Gestão de KBs** | Editor poderoso com suporte a `Ctrl+V` para imagens, tags coloridas e sistema de "Fixar". |
 | **🤖 Prompt Manager** | Organize seus melhores prompts com formatação limpa e botão de cópia rápida. |
-| **💻 Command Library** | Interface estilo terminal para salvar snippets de código e comandos de CLI. |
-| **🎨 UI Moderno** | Design responsivo com **Dark Mode** automático e suporte a fundos personalizados. |
+| **💻 Command Library** | Interface estilo terminal para salvar código e comandos de CLI. |
+| **🎨 UI Moderno** | Design responsivo e limpo com **Modo Escuro** e suporte a papeis de parede personalizados. |
 
 ### 🛠️ Diferenciais Técnicos
 * **Privacidade Total:** Seus dados nunca saem do seu computador. O processamento é 100% local.
@@ -34,7 +34,7 @@ Esta **Single Page Application (SPA)** foi desenvolvida para rodar inteiramente 
 ## 🚀 Como Usar
 > **Pré-requisitos**: Nenhum. Apenas um navegador moderno (Chrome, Firefox, Edge, Brave).
 
-1.  **Clone o repositório (Ou apenas baixe o arquivo index.html):**
+1.  **Clone o repositório** (Ou apenas **baixe o arquivo index.html**):
     ```bash
     git clone https://github.com/PedroGoessel/Prompts--KnowledgeBase--and--Commands--Manager.git
     ```
