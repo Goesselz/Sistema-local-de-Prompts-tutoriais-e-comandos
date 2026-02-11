@@ -1,3 +1,19 @@
+<p align="center">
+<img src="https://img.shields.io/badge/STATUS-OPERACIONAL-10b981?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/VERSÃO-2.0.0--STABLE-2c3e50?style=for-the-badge" alt="Versão">
+  <img src="https://img.shields.io/badge/INTERFACE-CORPORATE_ZEN-f1f5f9?style=for-the-badge" alt="Interface">
+</p> <h1 align="center">🚀 Sistema Integrado: NOC, KBs & Prompts</h1> <p align="center">
+  <strong>A central de comando definitiva para o profissional de tecnologia moderno.</strong>  
+
+  Uma Single Page Application (SPA ) ultra-leve que funde documentação técnica, automação de relatórios e gestão de ativos intelectuais em uma única interface fluida e offline-first.
+</p> <p align="center">
+  <a href="#-principais-módulos">Módulos</a> •
+  <a href="#-diferenciais-técnicos">Arquitetura</a> •
+  <a href="#-personalização">UX/UI</a> •
+  <a href="#-segurança--privacidade">Segurança</a> •
+  <a href="#-instalação-rápida">Quick Start</a>
+</p>
+
 # 🚀 Sistema Integrado: NOC, KBs & Prompts
 
 > Uma Single Page Application (SPA) profissional e ultra-leve para gestão de conhecimento, automação de rotinas de NOC e produtividade técnica.
