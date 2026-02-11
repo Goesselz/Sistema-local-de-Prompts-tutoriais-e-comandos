@@ -49,8 +49,8 @@ O **Sistema Integrado NOC** é uma aplicação web moderna e completa desenvolvi
 - ✅ Lightbox para visualização de imagens
 - ✅ Busca avançada por título ou tags
 
-### 💻 Comandos Linux
-- ✅ Biblioteca de comandos Linux frequentes
+### 💻 Comandos
+- ✅ Biblioteca de comandos frequentes
 - ✅ Categorização por tipo de comando
 - ✅ Cópia rápida com um clique
 - ✅ Sistema de busca integrado
@@ -207,8 +207,7 @@ Alterne entre os modos clicando no botão 🌓 no topo da página.
 sistema-integrado-noc/
 │
 ├── index.html          # Arquivo principal (aplicação completa)
-├── README.md           # Documentação do projeto
-└── assets/            # (opcional) Imagens para documentação
+└── README.md           # Documentação do projeto
 ```
 
 ---
@@ -269,25 +268,15 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 
 ## 👤 Autor
 
-**Seu Nome**
+**Pedro Goessel**
 
-- Github: [@seu-usuario](https://github.com/seu-usuario)
-- LinkedIn: [@seu-perfil](https://linkedin.com/in/seu-perfil)
-
----
-
-## 🙏 Agradecimentos
-
-- Comunidade de desenvolvedores web
-- Profissionais de NOC que inspiraram este projeto
-- Todos que contribuíram com feedback e sugestões
+- Github: [@PedroGoessel](https://github.com/PedroGoessel/)
+- LinkedIn: [@pedrogoessel](https://www.linkedin.com/in/pedrogoessel/)
 
 ---
 
 <div align="center">
 
 **⭐ Se este projeto foi útil para você, considere dar uma estrela!**
-
-Made with ❤️ for the NOC Community
 
 </div>
