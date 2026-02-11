@@ -14,8 +14,6 @@
   <a href="#-instalação-rápida">Quick Start</a>
 </p>
 
-> Uma Single Page Application (SPA) profissional e ultra-leve para gestão de conhecimento, automação de rotinas de NOC e produtividade técnica.
-
 [![Status](https://img.shields.io/badge/Status-Ativo-success?style=for-the-badge)](https://github.com/PedroGoessel/Prompts--KnowledgeBase--and--Commands--Manager)
 [![Tech](https://img.shields.io/badge/Tech-Vanilla_JS-yellow?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Architecture](https://img.shields.io/badge/Architecture-No--Build-orange?style=for-the-badge)](https://en.wikipedia.org/wiki/Static_web_page)
