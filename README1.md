@@ -1,4 +1,4 @@
-<div align="center"> # 🚀 Sistema Integrado NOC </div>
+# 🚀 Sistema Integrado NOC
 
 <div align="center">
 
